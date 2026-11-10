@@ -16,6 +16,13 @@
   <img src="assets/screenshot-play.png" alt="Called Shot — gameplay" width="820">
 </p>
 
+## More screenshots
+
+<table>
+<tr><td width="50%"><img src="assets/screenshot-hr2.png" alt="Back-to-back home runs"><br><sub>Back-to-back home runs</sub></td><td width="50%"><img src="assets/screenshot-missions.png" alt="The Season: games across three acts"><br><sub>The Season: games across three acts</sub></td></tr>
+<tr><td width="50%"><img src="assets/screenshot-results.png" alt="The box score"><br><sub>The box score</sub></td><td width="50%"><img src="assets/screenshot-how.png" alt="How to play"><br><sub>How to play</sub></td></tr>
+</table>
+
 ## Controls
 
 | Keys | Action |
